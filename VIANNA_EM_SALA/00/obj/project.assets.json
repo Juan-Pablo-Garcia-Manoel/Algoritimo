@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Algoritimo/VIANNA/02/02.csproj",
-      "projectName": "02",
-      "projectPath": "/workspaces/Algoritimo/VIANNA/02/02.csproj",
+      "projectUniqueName": "/workspaces/Algoritimo/VIANNA_EM_SALA/00/00.csproj",
+      "projectName": "00",
+      "projectPath": "/workspaces/Algoritimo/VIANNA_EM_SALA/00/00.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Algoritimo/VIANNA/02/obj/",
+      "outputPath": "/workspaces/Algoritimo/VIANNA_EM_SALA/00/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

@@ -59,7 +59,7 @@
 
         String nome = "Juan";
         String Sobrenome = "Pablo";
-        Console.Write("Nome: {0} {1}",nome,Sobrenome);
+        Console.WriteLine("Nome: {0} {1}",nome,Sobrenome);
 
         /*
             Prioridade para execução de operações em uma expressão:
@@ -77,7 +77,11 @@
             double nomeVar = Convert.ToDouble(Console.ReadLine());     
         */
 
-        
+        /*int x;
+        x = 10;
+        Console.WriteLine(x);
+        Console.Readkey();
+        */
 
     }
 }
