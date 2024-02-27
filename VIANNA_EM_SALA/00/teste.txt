@@ -1,0 +1,34 @@
+Lorem Ipsum
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"Não há quem goste de dor, que a procure e a queira ter, simplesmente porque é dor..."
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent placerat et neque a venenatis. Integer eu felis lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus lacinia velit ligula. Sed iaculis elit sit amet ex condimentum auctor. Nulla sed felis in nisl venenatis suscipit sit amet vel massa. Nulla facilisi. Nullam fringilla blandit turpis, nec luctus mi fringilla sit amet. Vivamus quis ante nec felis ultricies tempor. Nulla ultricies ac urna sit amet condimentum. Nam fermentum tincidunt tellus, vel luctus neque interdum eu. Donec sit amet venenatis metus. Pellentesque venenatis metus in blandit pretium. In urna neque, vehicula nec gravida sed, ornare ut purus. Aliquam sit amet lobortis dolor. Donec elementum molestie lectus, eget tincidunt tortor vulputate vitae.
+
+Mauris commodo ullamcorper tortor, et mollis tortor rutrum pharetra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc accumsan porta ante, ac pellentesque nunc varius non. Morbi id vestibulum massa. Curabitur ultrices dolor lectus, quis dignissim turpis tincidunt at. Donec ultrices feugiat augue vel fermentum. Donec tincidunt accumsan sem, non dignissim nunc gravida eget.
+
+Morbi venenatis, augue id rhoncus pulvinar, quam odio facilisis ipsum, vitae bibendum est ipsum vitae sem. Aliquam erat volutpat. Vivamus ut quam ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut eget libero interdum diam rhoncus porttitor. Sed metus arcu, auctor nec luctus et, euismod ut risus. Suspendisse a purus ultricies, finibus tellus eget, pretium tellus. Quisque pharetra est in sapien tristique pellentesque. Cras id ante eu nisl rhoncus venenatis vitae sed metus. Nam posuere odio eu tincidunt luctus. In eget sem diam. Praesent pretium tincidunt nisl, nec sollicitudin tellus posuere a. Donec molestie dignissim lacus a pretium. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec vestibulum quis urna sed tincidunt.
+
+Mauris pretium lacus nec aliquet venenatis. Ut sit amet dignissim dolor. Vivamus ultricies nec turpis in sollicitudin. Pellentesque mollis convallis tempus. Nam et quam non tortor condimentum semper sed pharetra ante. Quisque blandit, ligula id dignissim volutpat, erat diam euismod lorem, et porta lacus libero sit amet purus. Pellentesque faucibus vel enim varius mollis. Aliquam consectetur aliquet lorem, ac scelerisque nulla mollis et. Pellentesque eget arcu vitae enim varius malesuada. Donec sodales tellus non felis vehicula posuere. Vivamus pulvinar non diam et aliquam. Morbi ac ante et nulla facilisis porta id ut odio. Proin id mi a ante egestas porttitor. In tincidunt pharetra orci at egestas.
+
+Cras nisi urna, maximus sit amet massa eget, luctus finibus metus. Mauris dapibus elit ac orci tincidunt, faucibus mollis arcu volutpat. Fusce ornare eros a scelerisque pulvinar. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse malesuada iaculis velit, sit amet imperdiet nibh vulputate venenatis. Suspendisse ac justo posuere, efficitur odio vitae, malesuada augue. Ut sit amet odio vehicula, molestie purus iaculis, dignissim magna. Vestibulum imperdiet mollis eros, in feugiat felis. Pellentesque pretium nibh lacus, vitae gravida ante semper quis.
+
+Gerados 5 parágrafos, 489 palavras, 3330 bytes de Lorem Ipsum
+
+
+/*ATALHOS DE TECLADO*/
+home - Inicio da linha
+end - Fim da linha
+Crl + home - Topo do texto
+Crl + end - Fim do Texto
+Shift + home - Seleciona
+Shift + end - Seleciona
+Crtl + shift + home - Seleciona do fim ao topo  
+Crtl + shift + end - Seleciona do topo ao fim
+Crtl + -> - Pula palavra por palavra 
+Ctrl + <-  Pula palavra por palavra
+Crtl + Shift + -> - Seleciona e pula palavra por palavra 
+Ctrl + Shift + <-  Seleciona e pula palavra por palavra
+Ctrl + A - Seleciona Tudo
+Ctrl + C - Copiar
+Ctrl + V - Colar
+Ctrl + X - Recotar
+Ctrl + Z - Desfazer ultima alteração
