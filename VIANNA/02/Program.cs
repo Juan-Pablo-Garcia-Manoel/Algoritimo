@@ -75,6 +75,7 @@
             int nomeVar = Convert.ToInt32(Console.ReadLine());
             float nomeVar = Convert.ToSingle(Console.ReadLine());
             double nomeVar = Convert.ToDouble(Console.ReadLine());     
+            string nomeVar = Console.ReadLine();
         */
 
         /*int x;
