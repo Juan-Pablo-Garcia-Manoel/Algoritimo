@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanp\\Documents\\Algoritimo\\VIANNA\\02\\02.csproj": {}
+    "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\Q1\\Q1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanp\\Documents\\Algoritimo\\VIANNA\\02\\02.csproj": {
+    "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\Q1\\Q1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\Documents\\Algoritimo\\VIANNA\\02\\02.csproj",
-        "projectName": "02",
-        "projectPath": "C:\\Users\\juanp\\Documents\\Algoritimo\\VIANNA\\02\\02.csproj",
+        "projectUniqueName": "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\Q1\\Q1.csproj",
+        "projectName": "Q1",
+        "projectPath": "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\Q1\\Q1.csproj",
         "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\Documents\\Algoritimo\\VIANNA\\02\\obj\\",
+        "outputPath": "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\Q1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
