@@ -9,6 +9,15 @@
     
     private static void Main(string[] args)
     {
-        
+        double salarioFuncionario, salarioMinimo, qtdSalario;
+        salarioMinimo = 1412;
+
+        Console.Write("Informe o salario do funcionário: ");
+        salarioFuncionario = Convert.ToDouble(Console.ReadLine());
+
+        qtdSalario = (salarioFuncionario/salarioMinimo);
+
+        Console.WriteLine("O funcionário recebe {0} salario(s) minimo(s).",qtdSalario);
+
     }
 }
