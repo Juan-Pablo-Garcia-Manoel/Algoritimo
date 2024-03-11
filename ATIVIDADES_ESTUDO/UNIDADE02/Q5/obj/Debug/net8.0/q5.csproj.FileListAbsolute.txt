@@ -1,0 +1,15 @@
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/bin/Debug/net8.0/q5
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/bin/Debug/net8.0/q5.deps.json
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/bin/Debug/net8.0/q5.runtimeconfig.json
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/bin/Debug/net8.0/q5.dll
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/bin/Debug/net8.0/q5.pdb
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/q5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/q5.AssemblyInfoInputs.cache
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/q5.AssemblyInfo.cs
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/q5.csproj.CoreCompileInputs.cache
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/q5.sourcelink.json
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/q5.dll
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/refint/q5.dll
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/q5.pdb
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/q5.genruntimeconfig.cache
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q5/obj/Debug/net8.0/ref/q5.dll
