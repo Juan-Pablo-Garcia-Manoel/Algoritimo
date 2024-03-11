@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\q4\\q4.csproj": {}
+    "/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q4/q4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\q4\\q4.csproj": {
+    "/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q4/q4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\q4\\q4.csproj",
+        "projectUniqueName": "/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q4/q4.csproj",
         "projectName": "q4",
-        "projectPath": "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\q4\\q4.csproj",
-        "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\Documents\\Algoritimo\\ATIVIDADES_ESTUDO\\UNIDADE02\\q4\\obj\\",
+        "projectPath": "/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q4/q4.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE02/Q4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
