@@ -1,0 +1,15 @@
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/bin/Debug/net8.0/Q2
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/bin/Debug/net8.0/Q2.deps.json
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/bin/Debug/net8.0/Q2.runtimeconfig.json
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/bin/Debug/net8.0/Q2.dll
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/bin/Debug/net8.0/Q2.pdb
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/Q2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/Q2.AssemblyInfoInputs.cache
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/Q2.AssemblyInfo.cs
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/Q2.csproj.CoreCompileInputs.cache
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/Q2.sourcelink.json
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/Q2.dll
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/refint/Q2.dll
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/Q2.pdb
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/Q2.genruntimeconfig.cache
+/workspaces/Algoritimo/ATIVIDADES_ESTUDO/UNIDADE03/Q2/obj/Debug/net8.0/ref/Q2.dll
