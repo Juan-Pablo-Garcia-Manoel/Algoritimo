@@ -1,7 +1,8 @@
 ﻿internal class Program
 {
     /*
-        
+        ) Faça um procedimento que receba três valores
+reais e imprima a média aritmética desses valores.
     */
     static void media(double n1, double n2, double n3){
         double media;
