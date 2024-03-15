@@ -2,16 +2,31 @@
 {
     private static void Main(string[] args)
     {
-        /*DECLARAÇÃO*/
         int[] idade = new int[2];
-        int calculo;
-        /*ATRIBUINDO VALORES*/
-        idade[0] = 22;
-        idade[1] = 25;
-        calculo = idade[0] - idade[1];
+        leIdade(idade);
+        imprimeVetor(idade);
+    }
 
-        /*IMPRIMINDO*/
+    static void leIdade(int[] idade){
+        
+        string mensagem = "Informe a sua idade: ";
 
-        Console.WriteLine("{0} e {1} e {2}", idade[0],idade[1],calculo);
+        for (int i = 0; i < idade.Length; i++)
+        {
+            Mensagem(mensagem);    
+            idade[i] = Convert.ToInt32(Console.ReadLine());
+        }
+        
+    }
+
+    static void Mensagem(string texto){
+        Console.Write("{0}",texto);
+    }
+
+    static void imprimeVetor(int[] idade){
+        for (int i = 0; i < idade.Length; i++)
+        {
+            Console.WriteLine("Idade: {0}",idade[i]);
+        }
     }
 } 
