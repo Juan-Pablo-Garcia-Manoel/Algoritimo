@@ -1,6 +1,12 @@
 ﻿internal class Program
 {
 
+    /*
+        Ler dois números inteiros e informar se o
+        primeiro valor lido é maior, menor ou igual
+        ao segundo.
+    */
+
     static void Main(string[] args){
         int n1,n2;
 
