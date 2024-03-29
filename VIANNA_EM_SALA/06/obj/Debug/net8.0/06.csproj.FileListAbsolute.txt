@@ -1,0 +1,15 @@
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/06.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/06.AssemblyInfoInputs.cache
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/06.AssemblyInfo.cs
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/06.csproj.CoreCompileInputs.cache
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/06.sourcelink.json
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/bin/Debug/net8.0/06
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/bin/Debug/net8.0/06.deps.json
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/bin/Debug/net8.0/06.runtimeconfig.json
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/bin/Debug/net8.0/06.dll
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/bin/Debug/net8.0/06.pdb
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/06.dll
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/refint/06.dll
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/06.pdb
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/06.genruntimeconfig.cache
+/workspaces/Algoritimo/VIANNA_EM_SALA/06/obj/Debug/net8.0/ref/06.dll
