@@ -1,0 +1,34 @@
+﻿namespace _00;
+
+class Program
+{
+
+    static void Main(string[] args)
+    {
+        /*
+        Escrever um algoritmo que lê um valor N inteiro e positivo e que calcula e escreve o valor de E.
+        E = 1 + 1/2 + 1/3 + ... + 1/N
+        */
+
+        int n;
+        double e;
+        double resultado = 0;
+
+        Console.Write("Digite um número inteiro: ");
+        n = Convert.ToInt32(Console.ReadLine());
+
+        int i = 1;
+        while(i < n + 1){
+            e = 1 + (1/i);
+            resultado += e;
+            i ++;
+        }
+        
+        Console.WriteLine("Resultado: {0}", resultado);
+
+        /*if(n < 0){
+            Console.ReadLine("Número inválido ");        
+        }*/
+
+    }
+}
