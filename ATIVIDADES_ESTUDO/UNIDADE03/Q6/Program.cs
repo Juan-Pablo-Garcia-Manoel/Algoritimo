@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿internal class Program
+{
+    /*Faça o teste de mesa dos programas gerados no exercício anterior.*/
+    private static void Main(string[] args)
+    {
+        
+    }
+}
